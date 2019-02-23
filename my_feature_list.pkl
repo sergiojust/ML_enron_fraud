@@ -1,0 +1,10 @@
+(lp0
+S'poi'
+p1
+aS'proportion_to_poi'
+p2
+aS'expenses'
+p3
+aS'to_messages'
+p4
+a.
